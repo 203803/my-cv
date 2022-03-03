@@ -6,23 +6,23 @@
 /* Styles for the body */
 
 body {
-	font-family: Lato, "Open Sans", Roboto, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
-	color: #202030;
+	font-family: 'Roboto Slab', serif;
 	background-color: #f8f8fc;
 }
 
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
 .resume-header {
-    background-color: #e0f0ff;
+    background-color: #BEC8D2;
+	color: darkslategray
 }
 
 .resume-main {
-	background-color: #fffefc;
+	background-color: #ECF4FF;
 }
 
 .resume-aside {
-	background-color: #fff0e0;
+	background-color: #D0D7E0;
 }
 
 /* Styles for lists in the document */
